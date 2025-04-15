@@ -1,0 +1,7 @@
+opencv-python
+opencv-contrib-python
+scikit-build
+pillow
+pyserial
+pyqt5
+openvino
